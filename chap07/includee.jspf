@@ -1,0 +1,12 @@
+﻿<%@ page contentType="text/html; charset=utf-8" %>
+<html>
+<head><title> includee </title></head>
+
+<body>
+include에서 지정한 번호 =<%=number %>
+
+<%
+ String datafolder = "data";
+%>
+</body>
+</html>
